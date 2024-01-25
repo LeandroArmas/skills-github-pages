@@ -1,6 +1,3 @@
 ---
-title: Anuel
+title: My blog
 ---
-
-# Prueba 
-## Leandro
